@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and [luanped puzzle game](https://codepen.io/luanped/pen/MaqxVm).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Starting the App
 
